@@ -1,4 +1,7 @@
 # Relational-Operators
+
+Well everyone know about the SQL opeators. But how do they work behind the scene?
+This project just does that!. Implementation of SQL operators in python..
 Implement the following functions in Python:
 >select(relation, predicate)
 >project(relation, columns)
